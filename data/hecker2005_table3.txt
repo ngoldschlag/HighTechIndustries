@@ -1,0 +1,72 @@
+occupationcode,occ_desc,mean2004earnings
+11-3021,Computer and information systems managers,92570
+11-9041,Engineering managers,97630
+11-9121,Natural sciences managers,88660
+15-1011,Computer and information scientists research,85190
+15-1021,Computer programmers,62890
+15-1031,Computer software engineers applications,74980
+15-1032,Computer software engineers systems software,79740
+15-1041,Computer support specialists,40430
+15-1051,Computer systems analysts,66460
+15-1061,Database administrators,60650
+15-1071,Network and computer systems administrators,58190
+15-1081,Network systems and data communications analysts,60600
+15-2011,Actuaries,76340
+15-2021,Mathematicians,81240
+15-2031,Operations research analysts,60190
+15-2041,Statisticians,58620
+15-2091,Mathematical technicians,38460
+17-2011,Aerospace engineers,79100
+17-2021,Agricultural engineers,56520
+17-2031,Biomedical engineers,67690
+17-2041,Chemical engineers,76770
+17-2051,Civil engineers,64230
+17-2061,Computer hardware engineers,81150
+17-2071,Electrical engineers,71610
+17-2072,Electronics engineers except computer,75770
+17-2081,Environmental engineers,66480
+17-2111,Health and safety engineers except mining safety engineers and inspectors,63730
+17-2112,Industrial engineers,65020
+17-2121,Marine engineers and naval architects,72040
+17-2131,Materials engineers,67110
+17-2141,Mechanical engineers,66320
+17-2151,Mining and geological engineers including mining safety engineers,64690
+17-2161,Nuclear engineers,84880
+17-2171,Petroleum engineers,88500
+17-3011,Architectural and civil drafters,39190
+17-3012,Electrical and electronics drafters,43180
+17-3013,Mechanical drafters,43000
+17-3021,Aerospace engineering and operations technicians,52500
+17-3022,Civil engineering technicians,38480
+17-3023,Electrical and electronic engineering technicians,46310
+17-3024,Electromechanical technicians,41440
+17-3025,Environmental engineering technicians,38550
+17-3026,Industrial engineering technicians,43590
+17-3027,Mechanical engineering technicians,43400
+17-3031,Surveying and mapping technicians,30380
+19-1011,Animal scientists,49920
+19-1012,Food scientists and technologists,50840
+19-1013,Soil and plant scientists,51200
+19-1021,Biochemists and biophysicists,68950
+19-1022,Microbiologists,54840
+19-1023,Zoologists and wildlife biologists,50330
+19-1031,Conservation scientists,52480
+19-1032,Foresters,48230
+19-1041,Epidemiologists,54800
+19-1042,Medical scientists except epidemiologists,61320
+19-2011,Astronomers,97320
+19-2012,Physicists,87450
+19-2021,Atmospheric and space scientists,70100
+19-2031,Chemists,56060
+19-2032,Materials scientists,72390
+19-2041,Environmental scientists and specialists including health,51080
+19-2042,Geoscientists except hydrologists and geographers,68730
+19-2043,Hydrologists,61510
+19-4011,Agricultural and food science technicians,29730
+19-4021,Biological technicians,33210
+19-4031,Chemical technicians,38170
+19-4041,Geological and petroleum technicians,40260
+19-4051,Nuclear technicians,59200
+19-4091,Environmental science and protection technicians including health,35340
+19-4092,Forensic science technicians,44010
+19-4093,Forest and conservation technicians,27330

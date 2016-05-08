@@ -1,0 +1,48 @@
+naics,naics_desc,level
+3254,Pharmaceutical and medicine manufacturing ,Level I
+3341,Computer and peripheral equipment manufacturing,Level I
+3342,Communications equipment manufacturing,Level I
+3344,Semiconductor and other electronic component manufacturing,Level I
+3345,Navigational measuring electrometrical and control instruments manufacturing,Level I
+3364,Aerospace product and parts manufacturing,Level I
+5112,Software publishers,Level I
+5161,Internet publishing and broadcasting,Level I
+5179,Other telecommunications,Level I
+5181,Internet service providers and web search portals,Level I
+5182,Data processing hosting and related services,Level I
+5413,Architectural engineering and related services,Level I
+5415,Computer systems design and related services,Level I
+5417,Scientific research and development services,Level I
+2111,Oil and gas extraction,Level II
+2211,Electric power generation transmission and distribution,Level II
+3251,Basic chemical manufacturing,Level II
+3252,Resin synthetic rubber and artificial synthetic fibers and filaments manufacturing,Level II
+3332,Industrial machinery manufacturing,Level II
+3333,Commercial and service industry machinery manufacturing,Level II
+3343,Audio and video equipment manufacturing,Level II
+3346,Manufacturing and reproducing magnetic and optical media,Level II
+4234,Professional and commercial equipment and supply merchant wholesalers,Level II
+5416,Management scientific and technical consulting services,Level II
+1131,Forestry,Level II
+1132,Forestry,Level II
+9999,Federal Government excluding Postal Service,Level II
+3241,Petroleum and coal products manufacturing,Level III
+3255,Paint coating and adhesive manufacturing,Level III
+3259,Other chemical product and preparation manufacturing,Level III
+3336,Engine turbine and power transmission equipment manufacturing ,Level III
+3339,Other genera-purpose machinery manufacturing,Level III
+3353,Electrical equipment manufacturing,Level III
+4862,Pipelines transportation of natural gas,Level III
+5171,Wired telecommunications carriers,Level III
+5172,Wireless telecommunications carriers (except satellite),Level III
+5173,Telecommunications resellers ,Level III
+5174,Satellite telecommunications,Level III
+5211,Monetary authorities central bank,Level III
+5511,Management of companies and enterprises,Level III
+8112,Electronic and precision equipment repair and maintenance,Level III
+5612,Facilities support services,Level III
+3253,Pesticide fertilizer and other agricultural chemical manufacturing,Level III
+5232,Securities and commodity exchanges,Level III
+4861,Pipeline transportation of crude oil,Level III
+3369,Other transportation equipment manufacturing,Level III
+4869,Other pipeline transportation,Level III
