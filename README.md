@@ -12,3 +12,5 @@ The ipython notebook in this repository use industry-occupation employment data 
 Heckler, D. (2005). High-technology employment: a NAICS-based update. Monthly Lab. Rev., 128, 57.
 
 License: This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version. Included libraries are subject to their own licenses.
+
+DISCLAIMER: This site is maintained by Nathan Goldschlag. Opinions expressed here do not reflect the official views of the U.S. Census Bureau or any other public or private organization.
