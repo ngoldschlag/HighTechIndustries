@@ -2,6 +2,7 @@
 
 /* adjust to where public-use QWI can be found */
 %let qwibase=/data/clean/qwipu/state/data.R2014Q4/;
+%let schema=4.1-rc2;
 
 /* adjust to where the HT indicators are */
 %let htbase=../data;

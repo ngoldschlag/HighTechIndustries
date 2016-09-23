@@ -47,6 +47,14 @@ data &outlib..&outname.
 %let i=%eval(&i.+1);
 %end;
 ;
+/* create state variable */
+length state $ 2;
+%let i=1 ;
+%do %while ("%scan(&states.,&i.)" ne "" ) ;
+  %let state=%scan(&states.,&i.);
+        if in_&state. then state="&state.";
+%let i=%eval(&i.+1);
+%end;
 run;
 
 proc freq data= &outlib..&outname.;
