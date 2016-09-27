@@ -8,8 +8,8 @@
 /* the states for now are hard-coded. This shold be automated */
 %if ( "&states" = "all" ) %then
   %let states=
-ak al ar az ca co ct de fl ga hi ia id il in ks ky la md me mi mn mo
-ms mt nc nd ne nh nj nm nv ny oh ok or pa ri sc sd tn tx ut va vt wa wi wv wy
+ak al ar az ca co ct de fl ga hi ia id il in ks ky la ma md me mi mn mo ms
+mt nc nd ne nh nj nm nv ny oh ok or pa ri sc sd tn tx ut va vt wa wi wv wy
 ;
 %if ( "&qwibase." = "" ) %then %do;
 %put %upcase(error)::: you should define qwibase! ;
