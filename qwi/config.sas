@@ -6,7 +6,7 @@
 
 /* adjust to where the HT indicators are */
 %let htbase=../data;
-
+libname HTBASE "&htbase.";
 /* where does intermediate data live */
 %let interwrk=/scratch/htqwi;
 x "[[ -d &interwrk. ]] || mkdir -p &interwrk.";

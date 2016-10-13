@@ -4,7 +4,10 @@
 
 %let qwivars=b e f ca cs jc jd;
 %let qwistates=ca wi ny;
-%let us=sample;
+%let qwisuffix=sa_f_gs_n4_op_u;
+%let us=us;
+*let us=sample;
+
 
 filename testurl url "http://lehd.ces.census.gov/data/schema/V&schema./lehd_identifiers_qwi.csv";
 
@@ -60,24 +63,24 @@ run;
 proc print data=qwiht(where=(_merge=2));
 run;
 
-data qwiht;
+data HTBASE.qwiht;
 	set qwiht(where=(_merge ne 2));
 run;
 
 title;
-proc means data=qwiht(where=(sex ne "0" and agegrp="A00"));
+proc means data=HTBASE.qwiht(where=(sex ne "0" and agegrp="A00"));
 title "Means of select variables, by HT status";
 class ht;
 var &qwivars. female;
 run;
 
-proc freq data=qwiht(where=(sex = "0" and agegrp ne "A00"));
+proc freq data=HTBASE.qwiht(where=(sex = "0" and agegrp ne "A00"));
 title "Distribution of age groups, weighted by employment, by HT status";
 table agegrp*ht;
 weight b;
 run;
 
-proc freq data=qwiht(where=(sex ne "0" and agegrp ne "A00"));
+proc freq data=HTBASE.qwiht(where=(sex ne "0" and agegrp ne "A00"));
 title "Distribution of sex-age groups, weighted by employment, by HT status";
 table fem_age*ht;
 weight b;
